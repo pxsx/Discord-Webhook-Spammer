@@ -4,3 +4,10 @@ A Simple Webhook Spammer for Discord
 
 pip install requests
 pip install colorama
+
+or 
+
+pip install -r requirements.txt
+
+
+
