@@ -13,7 +13,7 @@ print(Fore.CYAN + """
     ░       ░  ░ ░       ░  ░  ░    ░ ░      ░ ░  ░  ░         ░                 ░  ░       ░          ░      ░  ░   ░     
                       ░                                                                                                                                                                          
 """
-+ Fore.YELLOW + "https://github.com/Pasi-dev-xyz/Discord-Webhook-Spammer")
++ Fore.YELLOW + "https://github.com/pxsx/Discord-Webhook-Spammer")
 print("")
 
 webhook = input(Fore.RED +">>Please enter the Webhook: ") # input for webhook url
